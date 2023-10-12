@@ -1,0 +1,9 @@
+<suite name="Simplilearn Project" verbose="1">
+ <test name="HomePageTest">
+  <classes>
+  <class name="com.simplilearn.testpage.HomePageTest">
+  </class>
+  </classes>
+
+ </test>
+</suite>
